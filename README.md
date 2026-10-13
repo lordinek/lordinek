@@ -46,8 +46,7 @@ An autonomous Minecraft companion that takes orders in natural language. Gemini 
 I turn the AI projects into videos: Minecraft agents, bots vs. cheaters, behind-the-scenes builds.
 
 <p align="center">
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/0Tf4PXyCrlE"><img width="30%" src="https://i.ytimg.com/vi/0Tf4PXyCrlE/mqdefault.jpg" alt="Minecraft&#39;ta Yapay zekayı Kölem yaptım! #lordinek #minecraft #yapayzeka" /></a><a href="https://www.youtube.com/watch?v=TM8X0s3MrgU"><img width="30%" src="https://i.ytimg.com/vi/TM8X0s3MrgU/mqdefault.jpg" alt="MİNECRAFT&#39;TA KENDİ YAPAY ZEKA KÖLEMİ YARATTIM!" /></a><a href="https://www.youtube.com/shorts/I88qbjp4GAE"><img width="30%" src="https://i.ytimg.com/vi/I88qbjp4GAE/mqdefault.jpg" alt="Bot vs Hileci: Crystal PvP&#39;de Kim Kazanır? #minecraft #pvp #shorts" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek"><img src="https://img.shields.io/badge/YouTube-@lordinek-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a></p>
