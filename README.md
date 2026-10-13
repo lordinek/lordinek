@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e88&height=200&section=header&text=Ali%20%C2%B7%20lordinek&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Algorithmic%20Trading%20Developer&descAlignY=58&descSize=18" alt="header" />
+  <img src="assets/header.svg" alt="Ali · lordinek, AI & Algorithmic Trading Developer" />
 </p>
 
 <p align="center">
@@ -75,5 +75,5 @@ I turn the AI projects into videos: Minecraft agents, bots vs. cheaters, behind-
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:302b63,100:0f0c29&height=110&section=footer" alt="footer" />
+  <img src="assets/footer.svg" alt="" />
 </p>
