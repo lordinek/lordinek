@@ -1,10 +1,24 @@
-# Hi, I'm Ali 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:ff2e88&height=200&section=header&text=Ali%20%C2%B7%20lordinek&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20%26%20Algorithmic%20Trading%20Developer&descAlignY=58&descSize=18" alt="header" />
+</p>
 
-**AI & algorithmic trading developer.** I build trading systems that have to *prove* their edge before they touch real money, and AI agents that do real work: from a desktop assistant on the Claude Agent SDK to a Minecraft companion that turns chat into actions.
+<p align="center">
+  <a href="https://github.com/lordinek">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FF2E88&center=true&vCenter=true&width=620&lines=Trading+systems+that+prove+their+edge;LLM+agents+that+do+real+work;Backtest+%E2%86%92+validate+%E2%86%92+paper+%E2%86%92+live;Running+24%2F7+on+a+Raspberry+Pi+%F0%9F%8D%93" alt="typing" />
+  </a>
+</p>
+
+I build trading systems that have to *prove* their edge before they touch real money, and AI agents that do real work: from a desktop assistant on the Claude Agent SDK to a Minecraft companion that turns chat into actions.
 
 - 📈 Research → validation → paper → live pipeline for crypto, forex and index futures
 - 🤖 LLM agents with a strict rule: the model translates intent, the code executes
 - 🍓 My bots run 24/7 on a Raspberry Pi, monitored through Telegram
+
+## Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,nodejs,java,electron,prisma,linux,raspberrypi,git,github,vscode,discord,obsidian&perline=7" alt="stack" />
+</p>
 
 ## Featured projects
 
@@ -27,13 +41,15 @@ An autonomous Minecraft companion that takes orders in natural language. Gemini 
 - **Telegram ↔ Claude bridge**: control an AI agent on the home PC from my phone, with inline approval buttons.
 - **Discord community bot**: TypeScript + Prisma, with XP levels, badge roles, leaderboards, automod and stat panels.
 
-## Toolbox
+## GitHub stats
 
-**Languages:** Python · TypeScript / JavaScript · Java
-**Trading:** pandas · numpy · numba · Bybit / Binance APIs · backtesting & validation · prop-firm rules
-**AI:** Claude Agent SDK · Claude Code (hooks, skills) · Gemini API · multi-provider LLM routing
-**Infra:** Raspberry Pi · Linux / systemd · Electron · Prisma · Git
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lordinek&layout=compact&hide_border=true&theme=radical&langs_count=6" alt="top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=lordinek&theme=radical&hide_border=true" alt="streak" />
+</p>
 
-<!--
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=lordinek&show_icons=true&hide_border=true)
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:302b63,100:0f0c29&height=110&section=footer" alt="footer" />
+</p>
