@@ -41,6 +41,17 @@ An autonomous Minecraft companion that takes orders in natural language. Gemini 
 - **Telegram ↔ Claude bridge**: control an AI agent on the home PC from my phone, with inline approval buttons.
 - **Discord community bot**: TypeScript + Prisma, with XP levels, badge roles, leaderboards, automod and stat panels.
 
+## Latest on YouTube
+
+I turn the AI projects into videos: Minecraft agents, bots vs. cheaters, behind-the-scenes builds.
+
+<p align="center">
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+</p>
+
+<p align="center"><a href="https://www.youtube.com/@lordinek"><img src="https://img.shields.io/badge/YouTube-@lordinek-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a></p>
+
 ## GitHub stats
 
 <p align="center">
