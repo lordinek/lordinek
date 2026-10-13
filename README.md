@@ -34,6 +34,13 @@ A desktop AI agent built on the **Claude Agent SDK** and Electron. It keeps one 
 An autonomous Minecraft companion that takes orders in natural language. Gemini turns chat into a validated JSON task queue; deterministic code handles mining, crafting, farming, building and combat. It also has a mood system, an LLM-free in-game dialog menu, and a server-side Fabric mod.
 `Mineflayer` `Gemini API` `Fabric / Java`
 
+## Live trading dashboard
+
+<p align="center">
+  <img src="assets/moneyglitch.gif" width="720" alt="MONEYGLITCH live paper-trading dashboard" />
+</p>
+<p align="center"><sub>MONEYGLITCH: my live paper-trading dashboard, with real balances from the Raspberry Pi. Bot names and strategies are anonymized.</sub></p>
+
 ## Also built (private)
 
 - **Live trading stack**: several paper-trading bots on Bybit/Binance. A daily reconciliation report checks live fills against the backtest (312 live trades, 100% match), slippage and news-window filters are measured, and a web dashboard tracks it all.
