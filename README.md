@@ -51,5 +51,12 @@ An autonomous Minecraft companion that takes orders in natural language. Gemini 
 </p>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordinek/lordinek/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/lordinek/lordinek/output/snake-light.svg" alt="contribution snake" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2e88,50:302b63,100:0f0c29&height=110&section=footer" alt="footer" />
 </p>
