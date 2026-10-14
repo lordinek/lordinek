@@ -4,7 +4,7 @@
 
 I'm Ali. I build trading bots and the tools to validate them. They run 24/7 on a Raspberry Pi, and I check them from Telegram.
 
-The other half is LLM tooling: a desktop client for Claude, and a Minecraft bot that takes orders in Turkish chat. My channel covers that side.
+The other half is LLM tooling: a desktop client and a terminal mod for Claude, and a Minecraft bot that takes orders in Turkish chat. My channel covers that side.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,ts,nodejs,java,electron,linux,raspberrypi" alt="Python, TypeScript, Node.js, Java, Electron, Linux, Raspberry Pi" />
@@ -17,6 +17,12 @@ The other half is LLM tooling: a desktop client for Claude, and a Minecraft bot 
 **[noyan-desktop](https://github.com/lordinek/noyan-desktop)**: an Electron app on the Claude Agent SDK. It puts Claude Code in its own window with a tray icon and a global hotkey. It has tool-permission prompts, session history and a side panel showing my bots.
 
 **[minecraft-ai-companion](https://github.com/lordinek/minecraft-ai-companion)**: a Mineflayer bot you talk to in normal chat. Gemini only turns the sentence into a task list; mining, farming and building a house are plain code. LLM calls have a daily cap, and the right-click menu works without the model at all.
+
+**[noyan-kiz](https://github.com/lordinek/noyan-kiz)**: a Claude Code mod that swaps the thinking spinner for an animated pixel-art girl drawn in the terminal. She blinks, talks while Claude writes, and shows a thought bubble while it thinks. Each terminal cell is a 2x2 pixel block made of quarter-block characters, with the two colors picked per cell to keep the error lowest.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lordinek/noyan-kiz/main/assets/demo.gif" width="480" alt="noyan-kiz demo" />
+</p>
 
 ## What's running
 
