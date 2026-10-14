@@ -18,10 +18,10 @@ The other half is LLM tooling: a desktop client and a terminal mod for Claude, a
 
 **[minecraft-ai-companion](https://github.com/lordinek/minecraft-ai-companion)**: a Mineflayer bot you talk to in normal chat. Gemini only turns the sentence into a task list; mining, farming and building a house are plain code. LLM calls have a daily cap, and the right-click menu works without the model at all.
 
-**[noyan-kiz](https://github.com/lordinek/noyan-kiz)**: a Claude Code mod that swaps the thinking spinner for an animated pixel-art girl drawn in the terminal. She blinks, talks while Claude writes, and shows a thought bubble while it thinks. Each terminal cell is a 2x2 pixel block made of quarter-block characters, with the two colors picked per cell to keep the error lowest.
+**[marin-kitagawa-mod](https://github.com/lordinek/marin-kitagawa-mod)**: a Claude Code mod that swaps the thinking spinner for an animated pixel-art Marin Kitagawa drawn in the terminal. She blinks, talks while Claude writes, and shows a thought bubble while it thinks. Each terminal cell is a 2x2 pixel block made of quarter-block characters, with the two colors picked per cell to keep the error lowest.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lordinek/noyan-kiz/main/assets/demo.gif" width="480" alt="noyan-kiz demo" />
+  <img src="https://raw.githubusercontent.com/lordinek/marin-kitagawa-mod/main/assets/demo.gif" width="480" alt="Marin Kitagawa mod demo" />
 </p>
 
 ## What's running
