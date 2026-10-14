@@ -2,7 +2,7 @@
   <img src="assets/header.svg" alt="Ali · lordinek, AI & Algorithmic Trading Developer" />
 </p>
 
-I'm Ali. I write trading bots and spend most of my time trying to prove them wrong before they get real money. Most of them don't survive that. The ones that do run as paper accounts on a Raspberry Pi, and I check them from Telegram.
+I'm Ali. I build trading bots and the tools to validate them. A fleet of them runs 24/7 on a Raspberry Pi, and I monitor it from Telegram.
 
 The other half is LLM tooling: a desktop client for Claude, and a Minecraft bot that takes orders in Turkish chat. My channel covers that side.
 
@@ -21,11 +21,11 @@ The other half is LLM tooling: a desktop client for Claude, and a Minecraft bot 
 ## What's running
 
 <p align="center">
-  <img src="assets/moneyglitch.gif" width="720" alt="Paper-trading dashboard" />
+  <img src="assets/moneyglitch.gif" width="720" alt="Trading bot dashboard" />
 </p>
-<p align="center"><sub>My paper-trading dashboard with real numbers from the Pi. I renamed the bots and cut the parts that show what they trade.</sub></p>
+<p align="center"><sub>My bot dashboard, live from the Pi. I renamed the bots and cut the parts that show what they trade.</sub></p>
 
-The code behind this stays private. A morning report compares every paper fill with what the backtest would have done, and the first 312 trades matched exactly. The same Pi also runs a Telegram bot that can wake my PC, and the Discord bot for my community server.
+The code behind this stays private. A morning report compares every fill with what the backtest would have done, and the first 312 trades matched exactly. The same Pi also runs a Telegram bot that can wake my PC, and the Discord bot for my community server.
 
 ## YouTube
 
