@@ -36,7 +36,7 @@ The code behind this stays private. A morning report compares every fill with wh
 ## YouTube
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/WT3afw5K1Tg"><img width="30%" src="https://i.ytimg.com/vi/WT3afw5K1Tg/mqdefault.jpg" alt="MİNECRAFT MANİFEST TOTEMLERİ #minecraft #manifest" /></a><a href="https://www.youtube.com/shorts/0Tf4PXyCrlE"><img width="30%" src="https://i.ytimg.com/vi/0Tf4PXyCrlE/mqdefault.jpg" alt="Minecraft&#39;ta Yapay zekayı Kölem yaptım! #lordinek #minecraft #yapayzeka" /></a><a href="https://www.youtube.com/watch?v=TM8X0s3MrgU"><img width="30%" src="https://i.ytimg.com/vi/TM8X0s3MrgU/mqdefault.jpg" alt="MİNECRAFT&#39;TA KENDİ YAPAY ZEKA KÖLEMİ YARATTIM!" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/watch?v=5Cq4LQryRHQ"><img width="30%" src="https://i.ytimg.com/vi/5Cq4LQryRHQ/mqdefault.jpg" alt="YAPAY ZEKALARI MİNECRAFT PVPDE KAPIŞTIRDIM &lpar;HT1&rpar;" /></a><a href="https://www.youtube.com/shorts/WT3afw5K1Tg"><img width="30%" src="https://i.ytimg.com/vi/WT3afw5K1Tg/mqdefault.jpg" alt="MİNECRAFT MANİFEST TOTEMLERİ #minecraft #manifest" /></a><a href="https://www.youtube.com/shorts/0Tf4PXyCrlE"><img width="30%" src="https://i.ytimg.com/vi/0Tf4PXyCrlE/mqdefault.jpg" alt="Minecraft&#39;ta Yapay zekayı Kölem yaptım! #lordinek #minecraft #yapayzeka" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek">youtube.com/@lordinek</a></p>
