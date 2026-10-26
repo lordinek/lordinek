@@ -38,7 +38,7 @@ The code behind this stays private. A morning report compares every fill with wh
 ## YouTube
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/ibQU0iv7FCA"><img width="30%" src="https://i.ytimg.com/vi/ibQU0iv7FCA/mqdefault.jpg" alt="YAPAY ZEKA İLE BLOK BİLMECE OYNADIM #minecraft #ai #chalange  #gaming #yapayzeka" /></a><a href="https://www.youtube.com/shorts/pddoCwnqlMY"><img width="30%" src="https://i.ytimg.com/vi/pddoCwnqlMY/mqdefault.jpg" alt="CHATGPT VS GEMİNİ SWORD PVP  #minecraft #ai #pvp  #yapayzeka" /></a><a href="https://www.youtube.com/watch?v=5Cq4LQryRHQ"><img width="30%" src="https://i.ytimg.com/vi/5Cq4LQryRHQ/mqdefault.jpg" alt="YAPAY ZEKALARI MİNECRAFT PVPDE KAPIŞTIRDIM &lpar;HT1&rpar;" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/z7e-SLreVsM"><img width="30%" src="https://i.ytimg.com/vi/z7e-SLreVsM/mqdefault.jpg" alt="YAPAY ZEKA BENİ YENEBİLECEK Mİ?  #minecraft #yapayzeka #ai  #challenge" /></a><a href="https://www.youtube.com/watch?v=r_fftYSuGaE"><img width="30%" src="https://i.ytimg.com/vi/r_fftYSuGaE/mqdefault.jpg" alt="MİNECRAFT ama YAPAY ZEKA BENİ ÖLDÜRMEYE ÇALIŞIYOR!" /></a><a href="https://www.youtube.com/shorts/ibQU0iv7FCA"><img width="30%" src="https://i.ytimg.com/vi/ibQU0iv7FCA/mqdefault.jpg" alt="YAPAY ZEKA İLE BLOK BİLMECE OYNADIM #minecraft #ai #chalange  #gaming #yapayzeka" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek">youtube.com/@lordinek</a></p>
