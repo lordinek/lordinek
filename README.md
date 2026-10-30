@@ -14,7 +14,7 @@ The other half is LLM tooling: a desktop client and a terminal mod for Claude, a
 
 **[quant-lab](https://github.com/lordinek/quant-lab)**: the validation scripts I run before trusting a backtest. They check for look-ahead bias, compare against random entries, sweep parameters and test out of sample, plus a prop-firm rule simulator. The strategy in the repo is one that failed. Its backtest looked great because of a stop on the wrong side of entry, and it lost on every market once that was fixed. I left it in as the example.
 
-**[noyan-desktop](https://github.com/lordinek/noyan-desktop)**: an Electron app on the Claude Agent SDK. It puts Claude Code in its own window with a tray icon and a global hotkey. It has tool-permission prompts, session history and a side panel showing my bots.
+**[mina-desktop](https://github.com/lordinek/mina-desktop)**: an Electron app on the Claude Agent SDK. It puts Claude Code in its own window with a tray icon and a global hotkey. It has tool-permission prompts, session history and a side panel showing my bots.
 
 **[minecraft-ai-companion](https://github.com/lordinek/minecraft-ai-companion)**: a Mineflayer bot you talk to in normal chat. Gemini only turns the sentence into a task list; mining, farming and building a house are plain code. LLM calls have a daily cap, and the right-click menu works without the model at all.
 
