@@ -38,7 +38,7 @@ The code behind this stays private. A morning report compares every fill with wh
 ## YouTube
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/qMxF6ShwBYo"><img width="30%" src="https://i.ytimg.com/vi/qMxF6ShwBYo/mqdefault.jpg" alt="MİNECRAFT ama YAPAY ZEKADAN KAÇIYORUM  #minecraft #yapayzeka #ai #gaming #challenge" /></a><a href="https://www.youtube.com/shorts/z7e-SLreVsM"><img width="30%" src="https://i.ytimg.com/vi/z7e-SLreVsM/mqdefault.jpg" alt="YAPAY ZEKA BENİ YENEBİLECEK Mİ?  #minecraft #yapayzeka #ai  #challenge" /></a><a href="https://www.youtube.com/watch?v=r_fftYSuGaE"><img width="30%" src="https://i.ytimg.com/vi/r_fftYSuGaE/mqdefault.jpg" alt="MİNECRAFT ama YAPAY ZEKA BENİ ÖLDÜRMEYE ÇALIŞIYOR!" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/fBvz_UabB9E"><img width="30%" src="https://i.ytimg.com/vi/fBvz_UabB9E/mqdefault.jpg" alt="Minecraft&#39;ta Yapay Zeka ile Saklambaç Oynamak! ⛏️ #minecraft #yapayzeka #ai #challenge" /></a><a href="https://www.youtube.com/shorts/qMxF6ShwBYo"><img width="30%" src="https://i.ytimg.com/vi/qMxF6ShwBYo/mqdefault.jpg" alt="MİNECRAFT ama YAPAY ZEKADAN KAÇIYORUM  #minecraft #yapayzeka #ai #gaming #challenge" /></a><a href="https://www.youtube.com/shorts/z7e-SLreVsM"><img width="30%" src="https://i.ytimg.com/vi/z7e-SLreVsM/mqdefault.jpg" alt="YAPAY ZEKA BENİ YENEBİLECEK Mİ?  #minecraft #yapayzeka #ai  #challenge" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek">youtube.com/@lordinek</a></p>
