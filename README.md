@@ -38,7 +38,7 @@ The code behind this stays private. A morning report compares every fill with wh
 ## YouTube
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/cqSMdqxzgps"><img width="30%" src="https://i.ytimg.com/vi/cqSMdqxzgps/mqdefault.jpg" alt="Minecrafta Telekinezi ekledim! 🪄  #minecraft #mcmods #shors" /></a><a href="https://www.youtube.com/shorts/A9Lp6wpg2Eo"><img width="30%" src="https://i.ytimg.com/vi/A9Lp6wpg2Eo/mqdefault.jpg" alt="Minecraft kamera ile oynamak!  #minecraft #mod #shorts" /></a><a href="https://www.youtube.com/shorts/AMRcRgjSH2E"><img width="30%" src="https://i.ytimg.com/vi/AMRcRgjSH2E/mqdefault.jpg" alt="Hileci vs Yapay zeka! Hangisi kazanır? #shorts #minecraft  #ai #yapayzeka #minecraftpvp" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/Wt9SRqeJM-o"><img width="30%" src="https://i.ytimg.com/vi/Wt9SRqeJM-o/mqdefault.jpg" alt="Minecraft&#39;ta Her Moba Binebilseydik?  #minecraft #minecrafttürkçe #shorts" /></a><a href="https://www.youtube.com/shorts/cqSMdqxzgps"><img width="30%" src="https://i.ytimg.com/vi/cqSMdqxzgps/mqdefault.jpg" alt="Minecrafta Telekinezi ekledim! 🪄  #minecraft #mcmods #shors" /></a><a href="https://www.youtube.com/shorts/A9Lp6wpg2Eo"><img width="30%" src="https://i.ytimg.com/vi/A9Lp6wpg2Eo/mqdefault.jpg" alt="Minecraft kamera ile oynamak!  #minecraft #mod #shorts" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek">youtube.com/@lordinek</a></p>
