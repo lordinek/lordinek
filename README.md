@@ -38,7 +38,7 @@ The code behind this stays private. A morning report compares every fill with wh
 ## YouTube
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/b508pK-uuIU"><img width="30%" src="https://i.ytimg.com/vi/b508pK-uuIU/mqdefault.jpg" alt="Minecraftın en ilginç PvPsi!  #minecraft #pvp #minecraftpvp #shorts" /></a><a href="https://www.youtube.com/shorts/YHZTi0uyUU0"><img width="30%" src="https://i.ytimg.com/vi/YHZTi0uyUU0/mqdefault.jpg" alt="Tyris yapay zekâmı yenebilir mi?  #minecraft #yapayzeka #crystalpvp #shorts" /></a><a href="https://www.youtube.com/shorts/Wt9SRqeJM-o"><img width="30%" src="https://i.ytimg.com/vi/Wt9SRqeJM-o/mqdefault.jpg" alt="Minecraft&#39;ta Her Moba Binebilseydik?  #minecraft #minecrafttürkçe #shorts" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/_uXZJROi7QU"><img width="30%" src="https://i.ytimg.com/vi/_uXZJROi7QU/mqdefault.jpg" alt="TNT ile Voleybol Oynamak! 🧨🏐 #minecraft #shorts #mod" /></a><a href="https://www.youtube.com/shorts/b508pK-uuIU"><img width="30%" src="https://i.ytimg.com/vi/b508pK-uuIU/mqdefault.jpg" alt="Minecraftın en ilginç PvPsi!  #minecraft #pvp #minecraftpvp #shorts" /></a><a href="https://www.youtube.com/shorts/YHZTi0uyUU0"><img width="30%" src="https://i.ytimg.com/vi/YHZTi0uyUU0/mqdefault.jpg" alt="Tyris yapay zekâmı yenebilir mi?  #minecraft #yapayzeka #crystalpvp #shorts" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek">youtube.com/@lordinek</a></p>
