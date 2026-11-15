@@ -38,7 +38,7 @@ The code behind this stays private. A morning report compares every fill with wh
 ## YouTube
 
 <p align="center">
-<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/W_aQ49q9b2Q"><img width="30%" src="https://i.ytimg.com/vi/W_aQ49q9b2Q/mqdefault.jpg" alt="Korsan Token&#39;inin Minecraf&#39;ta ekledim!☠️🪙  #minecraft #fortnite #shorts" /></a><a href="https://www.youtube.com/shorts/5bk_OYQ0Gbw"><img width="30%" src="https://i.ytimg.com/vi/5bk_OYQ0Gbw/mqdefault.jpg" alt="Her şeyimi bu eşyaya yatırdım 😭✌️ #minecraft #shorts #minecraftitemdraft" /></a><a href="https://www.youtube.com/shorts/_uXZJROi7QU"><img width="30%" src="https://i.ytimg.com/vi/_uXZJROi7QU/mqdefault.jpg" alt="TNT ile Voleybol Oynamak! 🧨🏐 #minecraft #shorts #mod" /></a><!-- YOUTUBE:END -->
+<!-- YOUTUBE:START --><a href="https://www.youtube.com/shorts/XIVUGA103bY"><img width="30%" src="https://i.ytimg.com/vi/XIVUGA103bY/mqdefault.jpg" alt="Minecraft&#39;a Yarasa Radarı Ekledim  #minecraft #minecraftmods #shorts" /></a><a href="https://www.youtube.com/shorts/W_aQ49q9b2Q"><img width="30%" src="https://i.ytimg.com/vi/W_aQ49q9b2Q/mqdefault.jpg" alt="Korsan Token&#39;inin Minecraf&#39;ta ekledim!☠️🪙  #minecraft #fortnite #shorts" /></a><a href="https://www.youtube.com/shorts/5bk_OYQ0Gbw"><img width="30%" src="https://i.ytimg.com/vi/5bk_OYQ0Gbw/mqdefault.jpg" alt="Her şeyimi bu eşyaya yatırdım 😭✌️ #minecraft #shorts #minecraftitemdraft" /></a><!-- YOUTUBE:END -->
 </p>
 
 <p align="center"><a href="https://www.youtube.com/@lordinek">youtube.com/@lordinek</a></p>
